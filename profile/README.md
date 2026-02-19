@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://deepthreat.io"><img src="https://img.shields.io/badge/deepthreat.io-ff2d55?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDMgMjBoMThMMTIgMnptMCAzLjk5TDE4LjUzIDE4SDUuNDdMMTIgNS45OXoiLz48L3N2Zz4=&logoColor=white" alt="Website"></a>
+  <a href="https://deepthreat.ai"><img src="https://img.shields.io/badge/deepthreat.ai-ff2d55?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDMgMjBoMThMMTIgMnptMCAzLjk5TDE4LjUzIDE4SDUuNDdMMTIgNS45OXoiLz48L3N2Zz4=&logoColor=white" alt="Website"></a>
   <a href="https://github.com/gilchrist-research"><img src="https://img.shields.io/badge/19_repos-0d0d0d?style=flat-square&logo=github&logoColor=white" alt="Repos"></a>
   <a href="https://github.com/gilchrist-research/deepthreat-intel-v1"><img src="https://img.shields.io/badge/6,900+_threat_entries-ff2d55?style=flat-square" alt="Intel"></a>
 </p>
@@ -112,5 +112,5 @@ The scanner finds the code issues. The AI finds the money.
 <p align="center">
   <img src="https://raw.githubusercontent.com/gilchrist-research/.github/main/branding/logos/gilchrist-research-icon.png" alt="Gilchrist Research" width="64">
   <br>
-  <sub>Security research and autonomous tooling from Texas · <a href="https://deepthreat.io">deepthreat.io</a></sub>
+  <sub>Security research and autonomous tooling from Texas · <a href="https://deepthreat.ai">deepthreat.ai</a></sub>
 </p>
