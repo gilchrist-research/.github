@@ -1,21 +1,16 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GILCHRIST_RESEARCH-Security_at_the_Speed_of_Inference-ff2d55?style=for-the-badge&labelColor=0d0d0d">
-  <img alt="Gilchrist Research" src="https://img.shields.io/badge/GILCHRIST_RESEARCH-Security_at_the_Speed_of_Inference-ff2d55?style=for-the-badge&labelColor=0d0d0d">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gilchrist-research/.github/main/branding/social-previews/gilchrist-research-social.png" alt="Gilchrist Research" width="100%">
+</p>
 
-```
- ██████╗ ██╗██╗      ██████╗██╗  ██╗██████╗ ██╗███████╗████████╗
-██╔════╝ ██║██║     ██╔════╝██║  ██║██╔══██╗██║██╔════╝╚══██╔══╝
-██║  ███╗██║██║     ██║     ███████║██████╔╝██║███████╗   ██║   
-██║   ██║██║██║     ██║     ██╔══██║██╔══██╗██║╚════██║   ██║   
-╚██████╔╝██║███████╗╚██████╗██║  ██║██║  ██║██║███████║   ██║   
- ╚═════╝ ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝   ╚═╝   
-                    R E S E A R C H
-```
-
-> **We build AI systems that find vulnerabilities before attackers do.**
+<p align="center">
+  <a href="https://deepthreat.io"><img src="https://img.shields.io/badge/deepthreat.io-ff2d55?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDMgMjBoMThMMTIgMnptMCAzLjk5TDE4LjUzIDE4SDUuNDdMMTIgNS45OXoiLz48L3N2Zz4=&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/gilchrist-research"><img src="https://img.shields.io/badge/19_repos-0d0d0d?style=flat-square&logo=github&logoColor=white" alt="Repos"></a>
+  <a href="https://github.com/gilchrist-research/deepthreat-intel-v1"><img src="https://img.shields.io/badge/6,900+_threat_entries-ff2d55?style=flat-square" alt="Intel"></a>
+</p>
 
 ---
+
+> **We build AI systems that find vulnerabilities before attackers do.**
 
 ### The Problem
 
@@ -23,7 +18,7 @@ DeFi protocols lost **$4B+** in 2024-2025. Traditional audits take weeks, cost $
 
 ### Our Approach
 
-We combine static analysis engines (Slither, Semgrep, Mythril) with **AI reasoning** that understands DeFi economics: flash loan paths, oracle manipulation, MEV extraction, liquidation cascades, governance attacks. The scanner finds the code issues. The AI finds the money.
+We combine static analysis engines (Slither, Semgrep, Mythril) with **AI reasoning** that understands DeFi economics: flash loan paths, oracle manipulation, MEV extraction, liquidation cascades, governance attacks. The scanner finds the code issues. **The AI finds the money.**
 
 ---
 
@@ -54,7 +49,7 @@ CI/CD security gate. GitHub App that blocks vulnerable code before it ships.
 <td width="33%" valign="top">
 
 **📡 Intel**<br>
-Threat intelligence feed. 4,200+ indexed incidents. Real-time exploit pattern matching.
+Threat intelligence feed. 6,900+ indexed incidents. Real-time exploit pattern matching.
 
 </td>
 <td width="33%" valign="top">
@@ -114,4 +109,8 @@ Every finding is version-controlled. Every decision is auditable.
 The scanner finds the code issues. The AI finds the money.
 ```
 
-<sub>Security research and autonomous tooling from Texas · [deepthreat.io](https://deepthreat.io)</sub>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gilchrist-research/.github/main/branding/logos/gilchrist-research-icon.png" alt="Gilchrist Research" width="64">
+  <br>
+  <sub>Security research and autonomous tooling from Texas · <a href="https://deepthreat.io">deepthreat.io</a></sub>
+</p>
